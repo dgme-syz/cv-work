@@ -1,7 +1,7 @@
 # cv-work
 
 > [!IMPORTANT]
-> A homework~
+> Just a homework~
 
 ## task1
 
