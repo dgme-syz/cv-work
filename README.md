@@ -1,5 +1,6 @@
 # cv-work
 
+> [!IMPORTANT]
 > A homework~
 
 ## task1
@@ -8,7 +9,8 @@
 
 ## task2
 
-**INFO:** 主要研究 tinyface 的检测，使用之前较为流行的 Tiny-Face (论文 [Finding Tiny Faces](https://arxiv.org/abs/1612.04402))，以及 YOLO5Face (论文 [Why Reinventing a Face Detector](https://arxiv.org/abs/2105.12931)) 作为对比实验。
+> [!WARNING]
+该实验主要研究 tinyface 的检测，使用之前较为流行的 Tiny-Face (论文 [Finding Tiny Faces](https://arxiv.org/abs/1612.04402))，以及 YOLO5Face (论文 [Why Reinventing a Face Detector](https://arxiv.org/abs/2105.12931)) 作为对比实验。
 
 (1). 模型配置及使用：
 
@@ -24,7 +26,7 @@
 
 (3). 实验准备：
 
-* 下载：WIDER 数据集
+* 下载：[WIDER 数据集](http://shuoyang1213.me/WIDERFACE/)，以及 [wider_val.txt](https://drive.google.com/file/d/1Twa2YSAxaRzy-SnOx0ZA3J3p8BUM14uN/view?usp=sharing)
   * 为了简便实验流程，我们只需要在验证集上测试两种模型性能
     * 将数据集 WIDER 放到 `/cv-work/data`
     * 将 wider_val.txt 放到 `/cv-work/data/WIDER/WIDER_val`
@@ -40,27 +42,33 @@
 
 > 项目结构
 
-```
+```markdown
 # task2
 - tiny-face
 - data
-	- WIDER
-		- ...
-		- WIDER_val
-			- images
-			- wider_val.txt
+  - WIDER
+    - ...
+    - WIDER_val
+      - images
+      - wider_val.txt
 - yolov5-face
 - weights
-	- checkpoint_50.pth
-	- yolov5n-face.pt
+  - checkpoint_50.pth
+  - yolov5n-face.pt
 ```
 
 
 
 (4). 一键实验
 
-当你处理好了 Python 环境时，那么我们可以使用：
+当你处理好了 Python 环境时，那么我们可以使用 Makefile，具体指令可以参考 Makefile 的内容：
 
-1. `make exp1` 以及 `make exp2` 分别获取 tiny-face 以及 yolov5-face 结果
-2. `make test1` 以及 `make test2` 分别获取他们的 MAp 结果
+✨ 获取 tiny-face 以及 yolov5-face 结果
+```bash
+make exp1 && make exp2
+```
+✨ 获取他们的 MAp 结果
+```bash
+make test1 && make test2
+```
 
