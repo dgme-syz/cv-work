@@ -1,4 +1,4 @@
-import cv2, argparse
+import cv2, argparse, os
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -48,11 +48,16 @@ if __name__ == '__main__':
     parser.add_argument('-i', type=str, help='Image path')
     parser.add_argument('-o', type=str, default='res.bmp', help='Output path')
     
-    path = parser.parse_args().i
+    args = parser.parse_args()
+    path = args.i
     img = cv2.imread(path, 1)
     if img is None:
         print('Image not found')
         exit()
+    if os.path.exists(args.o) is False:
+        print('Output path not found')
+        exit()
+        
     img = img.astype(np.float32) / 255.0
     dark = calc_dark(img)
     a = calc_a(dark, img)
