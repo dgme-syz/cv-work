@@ -17,7 +17,7 @@ python 1.py -i [/path/to/input_image] -o [/path/to/output_image]
 > [!NOTE]
 > 效果如下
 
-[<img src="task1/imgs/train.bmp" width="320px"/>](https://imgsli.com/MjI5MTA2) [<img src="task1/outs/train.bmp" width="320px"/>](https://imgsli.com/MjI5MTA3)
+[<img src="task1/imgs/train.bmp" width="320px"/>]() [<img src="task1/outs/train.bmp" width="320px"/>]()
 
 ## Task2
 
