@@ -2,8 +2,8 @@
 PYTHON = python
 DATAROOT = ./data/WIDER
 VALDATA = ./data/WIDER/wider_face_split/wider_face_val_bbx_gt.txt
-VALDATASET = ./data/WIDER/WIDER_test/images
-VALLIST = ./data/WIDER/wider_face_split/wider_val.txt
+VALDATASET = ./data/WIDER/WIDER_val/images
+VALLIST = ./data/WIDER/WIDER_val/wider_val.txt
 CHECKPOINT = ./weights/checkpoint_50.pth
 PT = ./weights/yolov5n-face.pt
 
