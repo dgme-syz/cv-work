@@ -8,15 +8,14 @@
 > [!NOTE]
 > 本实验是对于 2009 CVPR 何凯明《Single image haze removal using dark channel prior》Python 代码的简单复现
 
-🎨 使用方式
+🎨 **使用方式**
 ```bash
 cd task1
 python 1.py -i [/path/to/input_image] -o [/path/to/output_image]
 ```
 
 > [!NOTE]
-> 效果
-
+> 效果如下
 
 [<img src="task1/imgs/train.bmp" width="320px"/>](https://imgsli.com/MjI5MTA2) [<img src="task1/outs/train.bmp" width="320px"/>](https://imgsli.com/MjI5MTA3)
 
