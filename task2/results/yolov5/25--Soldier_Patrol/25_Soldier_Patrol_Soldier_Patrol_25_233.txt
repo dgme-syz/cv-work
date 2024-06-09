@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_233
+2
+219 64 61 78 0.826
+551 129 12 14 0.245

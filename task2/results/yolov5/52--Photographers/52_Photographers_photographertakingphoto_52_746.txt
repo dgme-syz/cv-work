@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_746
+3
+352 117 96 112 0.825
+162 167 109 158 0.808
+638 113 105 123 0.056

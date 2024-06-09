@@ -1,0 +1,3 @@
+49_Greeting_peoplegreeting_49_240
+1
+39 0 620 567 0.830

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_836
+2
+70 103 343 428 0.881
+708 172 59 77 0.858

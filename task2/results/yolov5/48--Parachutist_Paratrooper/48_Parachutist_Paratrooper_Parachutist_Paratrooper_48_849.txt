@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_849
+2
+383 166 126 172 0.848
+664 836 62 95 0.020

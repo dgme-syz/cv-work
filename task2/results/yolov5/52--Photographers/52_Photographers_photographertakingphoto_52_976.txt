@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_976
+2
+170 102 168 203 0.885
+569 38 277 352 0.884

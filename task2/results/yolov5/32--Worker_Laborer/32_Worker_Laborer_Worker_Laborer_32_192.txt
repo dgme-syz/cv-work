@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_192
+1
+329 344 142 214 0.840

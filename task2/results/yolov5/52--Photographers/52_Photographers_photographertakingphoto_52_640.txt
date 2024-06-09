@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_640
+2
+653 169 200 276 0.875
+14 93 400 548 0.868

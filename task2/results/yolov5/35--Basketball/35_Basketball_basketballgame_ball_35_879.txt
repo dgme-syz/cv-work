@@ -1,0 +1,3 @@
+35_Basketball_basketballgame_ball_35_879
+1
+211 335 252 357 0.875

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_370
+2
+364 106 161 217 0.880
+15 372 28 32 0.037

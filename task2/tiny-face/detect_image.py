@@ -3,7 +3,7 @@ Script to evaluate model.
 Look at Makefile to see `evaluate` command.
 """
 
-import argparse
+import argparse, os
 import json
 
 import numpy as np
@@ -16,7 +16,8 @@ from tinyfaces.evaluation import get_detections, get_model
 
 def arguments():
     parser = argparse.ArgumentParser("Image Evaluator")
-    parser.add_argument("image_path")
+    parser.add_argument("--image_path")
+    parser.add_argument("--output_path", default="output")
     parser.add_argument("--checkpoint",
                         help="The path to the model checkpoint",
                         default="")
@@ -57,7 +58,8 @@ def main():
     else:
         device = torch.device('cpu')
 
-    templates = json.load(open('tinyfaces/datasets/templates.json'))
+    cur_dir = os.path.dirname(os.path.realpath(__file__))
+    templates = json.load(open(os.path.join(cur_dir, 'tinyfaces/datasets/templates.json')))
     templates = np.round(np.array(templates), decimals=8)
 
     num_templates = templates.shape[0]
@@ -65,18 +67,21 @@ def main():
     model = get_model(args.checkpoint, num_templates=num_templates)
     print("Loaded model", args.checkpoint)
 
-    image = Image.open(args.image_path).convert('RGB')
+    for filename in os.listdir(args.image_path):
+        image_path = os.path.join(args.image_path, filename)
+        image = Image.open(image_path).convert('RGB')
 
-    with torch.no_grad():
-        # run model on image
-        dets = run(model, image, templates, args.prob_thresh, args.nms_thresh,
-                   device)
+        with torch.no_grad():
+            # run model on image
+            dets = run(model, image, templates, args.prob_thresh, args.nms_thresh,
+                    device)
 
-    draw = ImageDraw.Draw(image)
-    for det in dets:
-        draw.rectangle(((det[0], det[1]), (det[2], det[3])), width=4)
+        draw = ImageDraw.Draw(image)
+        for det in dets:
+            draw.rectangle(((det[0], det[1]), (det[2], det[3])), width=4, outline='green')
 
-    image.show()
+        # save
+        image.save(os.path.join(args.output_path, filename))
 
 
 if __name__ == "__main__":

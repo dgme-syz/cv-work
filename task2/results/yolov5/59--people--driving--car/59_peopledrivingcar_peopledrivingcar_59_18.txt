@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_18
+2
+297 211 155 249 0.837
+759 195 104 179 0.687

@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_45
+2
+358 239 78 88 0.820
+738 221 49 63 0.754

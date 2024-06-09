@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_825
+2
+744 162 43 63 0.823
+441 147 48 69 0.821

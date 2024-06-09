@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_506
+3
+224 130 92 114 0.870
+769 188 88 114 0.865
+444 167 90 115 0.854

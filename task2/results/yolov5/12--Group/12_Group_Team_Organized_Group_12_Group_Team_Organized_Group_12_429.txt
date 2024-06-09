@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_429
+3
+484 86 92 114 0.848
+205 237 88 117 0.745
+722 208 86 109 0.659

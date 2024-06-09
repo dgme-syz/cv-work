@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_890
+3
+397 575 43 56 0.862
+518 589 42 55 0.858
+255 599 45 57 0.856

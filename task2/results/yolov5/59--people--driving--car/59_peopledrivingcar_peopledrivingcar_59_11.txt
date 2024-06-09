@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_11
+3
+714 271 53 67 0.868
+545 279 57 72 0.859
+312 129 44 61 0.825

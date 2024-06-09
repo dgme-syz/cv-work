@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_114
+1
+504 208 119 135 0.815

@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_46
+2
+400 158 175 241 0.858
+328 1018 271 250 0.448

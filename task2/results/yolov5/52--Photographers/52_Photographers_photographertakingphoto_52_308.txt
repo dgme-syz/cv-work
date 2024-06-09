@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_308
+3
+514 282 241 236 0.757
+546 430 219 187 0.144
+356 203 226 310 0.084

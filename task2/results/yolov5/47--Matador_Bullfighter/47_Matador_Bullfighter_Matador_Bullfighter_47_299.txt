@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_299
+3
+776 40 108 124 0.871
+178 79 82 110 0.858
+186 575 95 185 0.070

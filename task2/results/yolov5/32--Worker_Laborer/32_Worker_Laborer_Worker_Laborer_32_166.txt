@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_166
+1
+314 138 135 200 0.851

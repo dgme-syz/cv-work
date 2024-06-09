@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_377
+3
+271 40 115 154 0.857
+557 273 58 74 0.821
+674 232 50 65 0.816

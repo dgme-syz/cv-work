@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_446
+2
+370 395 89 128 0.843
+149 395 84 126 0.839

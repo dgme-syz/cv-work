@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_177
+3
+424 460 30 41 0.809
+461 490 33 45 0.744
+496 124 71 89 0.056

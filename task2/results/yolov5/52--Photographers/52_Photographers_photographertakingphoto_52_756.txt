@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_756
+2
+201 168 268 369 0.874
+576 201 311 448 0.841

@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_971
+2
+727 47 122 80 0.793
+361 6 74 92 0.020

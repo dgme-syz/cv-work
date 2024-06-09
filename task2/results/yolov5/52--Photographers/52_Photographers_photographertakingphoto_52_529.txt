@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_529
+3
+204 154 39 48 0.844
+500 100 41 49 0.840
+346 125 39 45 0.831

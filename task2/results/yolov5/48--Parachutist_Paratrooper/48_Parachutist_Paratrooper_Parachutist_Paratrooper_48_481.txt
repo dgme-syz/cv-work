@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_481
+2
+658 110 174 209 0.872
+261 75 202 258 0.862

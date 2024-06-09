@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_562
+2
+520 521 69 66 0.696
+695 528 67 93 0.022

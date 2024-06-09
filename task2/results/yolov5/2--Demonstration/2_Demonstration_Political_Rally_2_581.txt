@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_581
+2
+590 258 117 159 0.879
+196 82 228 247 0.863

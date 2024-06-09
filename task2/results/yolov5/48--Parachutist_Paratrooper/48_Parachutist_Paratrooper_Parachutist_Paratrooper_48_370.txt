@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_370
+2
+575 122 78 107 0.795
+690 219 145 191 0.079

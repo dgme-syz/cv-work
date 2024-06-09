@@ -1,0 +1,3 @@
+24_Soldier_Firing_Soldier_Firing_24_967
+1
+375 231 99 131 0.864

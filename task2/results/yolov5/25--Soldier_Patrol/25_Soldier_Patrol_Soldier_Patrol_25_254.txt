@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_254
+2
+80 97 82 143 0.783
+0 275 81 203 0.052

@@ -1,7 +1,7 @@
 
 PYTHON = python
 DATAROOT = ./data/WIDER
-VALDATA = ./data/WIDER/wider_face_split/wider_face_val_bbx_gt.txt
+VALDATA = ./data/WIDER/wider_face_split/wider_face_test_filelist.txt
 VALDATASET = ./data/WIDER/WIDER_test/images
 VALLIST = ./data/WIDER/wider_face_split/wider_face_test_filelist.txt
 CHECKPOINT = ./weights/checkpoint_50.pth
@@ -20,5 +20,9 @@ test1:
 	cd ./widerface_evaluate/ && python ./setup.py build_ext --inplace && python ./evaluation.py -p ../$(RES1) -g ./ground_truth
 test2:
 	cd ./widerface_evaluate/ && python ./setup.py build_ext --inplace && python ./evaluation.py -p ../$(RES2) -g ./ground_truth
+detect1:
+	python ./tiny-face/detect_image.py --checkpoint ./weights/checkpoint_50.pth --output_path ./detect/tiny/ --image_path ./src 
+detect2:
+	python ./yolov5-face/detect_face.py --weights ./weights/yolov5n-face.pt --project ./detect/yolov5/ --source ./src --save-img --view-img
 clean:
 	rm -rf $(RES1) $(RES2)

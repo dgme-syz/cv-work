@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_950
+2
+404 152 80 108 0.861
+526 108 81 99 0.857

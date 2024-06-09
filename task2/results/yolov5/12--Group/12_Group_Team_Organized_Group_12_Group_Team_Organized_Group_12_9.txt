@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_9
+4
+354 261 54 65 0.873
+77 244 57 62 0.836
+629 265 52 67 0.831
+891 267 57 70 0.795

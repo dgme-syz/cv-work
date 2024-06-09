@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_680
+1
+347 368 275 386 0.870

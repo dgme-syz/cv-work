@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_775
+3
+729 315 87 96 0.795
+423 118 80 94 0.730
+108 301 307 320 0.220

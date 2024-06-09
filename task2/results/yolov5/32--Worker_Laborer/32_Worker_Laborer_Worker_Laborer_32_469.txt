@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_469
+1
+306 690 560 725 0.870

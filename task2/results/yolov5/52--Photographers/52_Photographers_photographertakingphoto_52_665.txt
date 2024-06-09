@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_665
+2
+525 521 65 112 0.780
+459 546 75 94 0.710

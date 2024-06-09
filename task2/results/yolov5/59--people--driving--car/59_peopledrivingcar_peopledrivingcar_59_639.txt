@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_639
+3
+664 252 174 232 0.868
+385 0 45 42 0.123
+34 491 19 22 0.046

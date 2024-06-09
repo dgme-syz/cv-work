@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_140
+3
+541 78 76 98 0.837
+509 144 56 68 0.149
+494 151 55 65 0.020

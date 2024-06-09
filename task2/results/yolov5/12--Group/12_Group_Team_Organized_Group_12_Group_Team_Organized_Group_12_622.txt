@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_622
+3
+494 102 185 254 0.870
+795 215 9 11 0.225
+737 213 10 12 0.040

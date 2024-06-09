@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_1025
+2
+635 431 218 295 0.871
+240 404 228 314 0.859

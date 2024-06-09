@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_532
+3
+630 187 246 337 0.750
+103 413 34 35 0.088
+87 617 33 40 0.069

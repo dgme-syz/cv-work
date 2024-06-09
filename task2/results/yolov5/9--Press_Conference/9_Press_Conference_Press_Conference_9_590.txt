@@ -1,0 +1,4 @@
+9_Press_Conference_Press_Conference_9_590
+2
+344 162 285 375 0.871
+517 759 316 286 0.027

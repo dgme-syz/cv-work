@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_450
+1
+675 139 135 175 0.852

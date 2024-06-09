@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_104
+2
+270 438 140 172 0.836
+888 1034 41 62 0.666

@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_546
+2
+377 361 77 97 0.820
+484 84 70 88 0.742

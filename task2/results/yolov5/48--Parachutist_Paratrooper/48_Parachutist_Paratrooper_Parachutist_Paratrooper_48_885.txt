@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_885
+2
+453 252 123 170 0.817
+261 88 71 100 0.140

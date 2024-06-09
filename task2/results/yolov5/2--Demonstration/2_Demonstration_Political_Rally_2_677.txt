@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_677
+2
+554 236 128 151 0.862
+316 272 113 145 0.819

@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_583
+2
+471 74 165 256 0.857
+173 2050 85 24 0.035

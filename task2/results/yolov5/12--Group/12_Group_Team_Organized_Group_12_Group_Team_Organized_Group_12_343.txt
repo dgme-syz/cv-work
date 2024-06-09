@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_343
+4
+384 102 232 313 0.838
+602 600 64 63 0.198
+620 586 53 65 0.025
+0 362 222 227 0.022

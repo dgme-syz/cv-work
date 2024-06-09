@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_941
+3
+690 116 44 63 0.837
+407 212 61 80 0.823
+548 190 52 65 0.038

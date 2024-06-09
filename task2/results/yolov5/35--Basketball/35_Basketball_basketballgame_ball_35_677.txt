@@ -1,0 +1,3 @@
+35_Basketball_basketballgame_ball_35_677
+1
+396 154 340 471 0.856

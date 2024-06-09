@@ -1,0 +1,4 @@
+31_Waiter_Waitress_Waiter_Waitress_31_762
+2
+563 175 118 151 0.855
+277 218 104 139 0.850

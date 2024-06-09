@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_182
+2
+474 672 222 279 0.872
+816 65 63 88 0.032

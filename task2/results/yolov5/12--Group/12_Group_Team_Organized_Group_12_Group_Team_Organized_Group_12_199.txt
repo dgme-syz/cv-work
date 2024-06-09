@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_199
+3
+366 93 94 109 0.840
+514 68 73 90 0.839
+669 528 71 75 0.824

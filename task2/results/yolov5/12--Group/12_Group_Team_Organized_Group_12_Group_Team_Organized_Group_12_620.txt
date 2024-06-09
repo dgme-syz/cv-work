@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_620
+4
+474 107 96 135 0.841
+789 172 101 127 0.786
+765 431 100 118 0.658
+965 122 59 74 0.021

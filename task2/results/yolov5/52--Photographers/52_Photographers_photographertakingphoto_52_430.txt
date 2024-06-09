@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_430
+3
+758 700 92 117 0.866
+670 775 81 103 0.854
+235 1172 77 49 0.035

@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_671
+3
+470 47 19 22 0.702
+560 256 42 44 0.100
+730 283 17 20 0.057

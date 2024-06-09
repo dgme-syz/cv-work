@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_664
+2
+508 165 111 109 0.759
+527 195 78 76 0.037

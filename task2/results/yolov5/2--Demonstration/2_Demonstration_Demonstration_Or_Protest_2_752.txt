@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_752
+3
+943 624 80 117 0.711
+981 553 42 102 0.101
+988 585 36 121 0.031

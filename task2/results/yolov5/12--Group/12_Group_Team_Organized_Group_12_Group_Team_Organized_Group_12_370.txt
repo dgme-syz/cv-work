@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_370
+4
+110 304 53 69 0.871
+874 254 44 53 0.700
+639 571 14 14 0.041
+1013 312 11 48 0.038

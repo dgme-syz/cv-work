@@ -1,0 +1,4 @@
+13_Interview_Interview_2_People_Visible_13_192
+2
+0 0 975 1060 0.550
+0 365 1018 1026 0.048

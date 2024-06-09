@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_175
+2
+327 140 340 368 0.284
+992 0 31 173 0.076

@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_124
+2
+184 112 71 88 0.812
+721 142 67 82 0.793

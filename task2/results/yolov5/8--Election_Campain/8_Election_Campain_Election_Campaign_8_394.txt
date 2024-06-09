@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_394
+2
+253 301 224 294 0.890
+449 1227 13 14 0.024

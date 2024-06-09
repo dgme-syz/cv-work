@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_873
+3
+825 128 120 144 0.887
+493 117 122 152 0.869
+157 159 104 120 0.860

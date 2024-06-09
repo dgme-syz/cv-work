@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_901
+2
+674 108 39 52 0.695
+411 57 55 61 0.476

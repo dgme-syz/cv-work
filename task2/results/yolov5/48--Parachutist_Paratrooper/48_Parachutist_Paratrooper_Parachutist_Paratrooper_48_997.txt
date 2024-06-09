@@ -1,0 +1,4 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_997
+2
+380 44 141 186 0.501
+327 90 140 139 0.027

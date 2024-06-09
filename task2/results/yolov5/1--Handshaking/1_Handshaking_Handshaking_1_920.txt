@@ -1,0 +1,3 @@
+1_Handshaking_Handshaking_1_920
+1
+160 240 291 367 0.887

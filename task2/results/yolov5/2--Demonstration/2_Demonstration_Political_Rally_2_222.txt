@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_222
+2
+699 239 206 238 0.879
+362 176 193 252 0.863

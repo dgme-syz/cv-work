@@ -1,0 +1,3 @@
+2_Demonstration_Political_Rally_2_280
+1
+440 284 52 63 0.823

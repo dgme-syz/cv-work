@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_550
+3
+271 162 111 146 0.869
+542 56 99 159 0.821
+32 316 42 60 0.039

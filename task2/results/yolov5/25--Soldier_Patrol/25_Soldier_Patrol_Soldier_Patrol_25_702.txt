@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_702
+1
+635 140 105 144 0.783

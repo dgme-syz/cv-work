@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_505
+2
+276 121 107 133 0.882
+656 93 150 171 0.465

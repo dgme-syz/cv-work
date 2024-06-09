@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_784
+1
+301 142 260 358 0.054

@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_457
+2
+576 56 90 130 0.837
+599 205 103 109 0.834

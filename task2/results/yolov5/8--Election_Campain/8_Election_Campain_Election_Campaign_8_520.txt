@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_520
+2
+524 244 116 157 0.880
+95 17 80 114 0.858
