@@ -22,4 +22,6 @@ rad.json
 TestResults.xml
 *.pth
 *.pt
-./task2/data/WIDER
+task2/data/WIDER/*
+task2/results/tiny/*
+task2/results/yolov5/*
