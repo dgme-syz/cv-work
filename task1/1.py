@@ -54,15 +54,12 @@ if __name__ == '__main__':
     if img is None:
         print('Image not found')
         exit()
-    if os.path.exists(args.o) is False:
-        print('Output path not found')
-        exit()
-        
+
     img = img.astype(np.float32) / 255.0
     dark = calc_dark(img)
     a = calc_a(dark, img)
     tx = calc_tx(img, a)
-    tx = cv2.ximgproc.guidedFilter(img, tx, radius=15, eps=0.001, dDepth=-1)
+    # tx = cv2.ximgproc.guidedFilter(img, tx, radius=15, eps=0.001, dDepth=-1)
     ans = calc_jx(img, tx, a)
     
     cv2.imwrite(parser.parse_args().o, ans * 255)
