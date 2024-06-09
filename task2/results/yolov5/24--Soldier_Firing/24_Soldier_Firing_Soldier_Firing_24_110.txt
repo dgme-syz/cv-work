@@ -1,3 +1,0 @@
-24_Soldier_Firing_Soldier_Firing_24_110
-1
-709 244 157 218 0.837

@@ -1,3 +1,0 @@
-40_Gymnastics_Gymnastics_40_350
-1
-470 342 85 113 0.863

@@ -1,4 +1,0 @@
-2_Demonstration_Demonstrators_2_604
-2
-95 315 29 31 0.670
-94 305 28 27 0.032

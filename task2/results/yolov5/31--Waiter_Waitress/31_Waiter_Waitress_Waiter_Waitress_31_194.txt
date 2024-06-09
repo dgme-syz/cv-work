@@ -1,4 +1,0 @@
-31_Waiter_Waitress_Waiter_Waitress_31_194
-2
-599 153 103 136 0.833
-361 195 93 133 0.833

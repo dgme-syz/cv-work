@@ -1,9 +1,0 @@
-10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_779
-7
-428 152 51 57 0.835
-222 155 43 48 0.826
-744 194 51 54 0.769
-356 157 34 36 0.703
-77 29 19 22 0.074
-298 112 37 41 0.074
-8 153 36 42 0.038

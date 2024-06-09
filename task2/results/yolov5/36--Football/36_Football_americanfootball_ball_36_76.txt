@@ -1,4 +1,0 @@
-36_Football_americanfootball_ball_36_76
-2
-392 102 56 75 0.834
-562 89 55 79 0.783

@@ -1,3 +1,0 @@
-49_Greeting_peoplegreeting_49_436
-1
-360 375 318 440 0.865

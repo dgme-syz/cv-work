@@ -1,3 +1,0 @@
-61_Street_Battle_streetfight_61_912
-1
-400 49 155 205 0.894

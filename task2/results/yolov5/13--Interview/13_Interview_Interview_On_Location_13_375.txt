@@ -1,4 +1,0 @@
-13_Interview_Interview_On_Location_13_375
-2
-275 114 98 149 0.840
-698 229 81 123 0.810

@@ -1,4 +1,0 @@
-35_Basketball_basketballgame_ball_35_469
-2
-214 175 209 278 0.831
-603 215 244 313 0.804

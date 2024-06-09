@@ -1,4 +1,0 @@
-8_Election_Campain_Election_Campaign_8_171
-2
-593 230 149 197 0.869
-321 182 134 165 0.864

@@ -1,4 +1,0 @@
-16_Award_Ceremony_Awards_Ceremony_16_98
-2
-294 119 99 122 0.883
-818 92 105 154 0.796

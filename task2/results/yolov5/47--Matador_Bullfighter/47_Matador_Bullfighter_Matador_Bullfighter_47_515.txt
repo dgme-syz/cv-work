@@ -1,4 +1,0 @@
-47_Matador_Bullfighter_Matador_Bullfighter_47_515
-2
-233 221 110 153 0.862
-590 105 120 148 0.825

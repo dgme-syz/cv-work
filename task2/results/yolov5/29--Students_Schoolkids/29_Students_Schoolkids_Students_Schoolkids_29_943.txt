@@ -1,5 +1,0 @@
-29_Students_Schoolkids_Students_Schoolkids_29_943
-3
-514 220 74 95 0.861
-228 18 73 97 0.851
-805 160 67 84 0.850

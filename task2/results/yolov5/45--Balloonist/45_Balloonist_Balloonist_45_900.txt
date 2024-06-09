@@ -1,3 +1,0 @@
-45_Balloonist_Balloonist_45_900
-1
-462 108 104 145 0.880

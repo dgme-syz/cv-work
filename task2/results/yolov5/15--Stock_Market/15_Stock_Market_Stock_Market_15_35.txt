@@ -1,3 +1,0 @@
-15_Stock_Market_Stock_Market_15_35
-1
-250 375 141 201 0.834

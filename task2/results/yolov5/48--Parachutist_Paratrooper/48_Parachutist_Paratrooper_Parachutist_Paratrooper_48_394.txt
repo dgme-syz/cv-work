@@ -1,4 +1,0 @@
-48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_394
-2
-293 241 150 177 0.862
-682 62 40 49 0.256

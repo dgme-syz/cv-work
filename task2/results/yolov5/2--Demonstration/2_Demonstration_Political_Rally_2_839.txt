@@ -1,4 +1,0 @@
-2_Demonstration_Political_Rally_2_839
-2
-510 424 121 166 0.871
-946 427 34 37 0.856

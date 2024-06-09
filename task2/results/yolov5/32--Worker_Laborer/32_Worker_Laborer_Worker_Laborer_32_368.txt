@@ -1,3 +1,0 @@
-32_Worker_Laborer_Worker_Laborer_32_368
-1
-226 104 105 128 0.845
