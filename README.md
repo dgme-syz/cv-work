@@ -29,7 +29,7 @@ python 1.py -i [/path/to/input_image] -o [/path/to/output_image]
 * Tiny-Face 采用：HR-ResNet101 结构 
 * Yolov5-Face 采用：ShuffleNetv2 作为骨架的 ***YOLOv5n***
 
-(2). 二者在 **原论文** 的表现（使用 WIDERFace 数据集的 val 部分）：
+(2). 二者在 **原论文** 的表现（使用 WIDERFace 数据集的 Test 部分）：
 
 |     Name     | Easy  | Medium | Hard  |
 | :----------: | :---: | :----: | :---: |
@@ -39,7 +39,7 @@ python 1.py -i [/path/to/input_image] -o [/path/to/output_image]
 (3). 实验准备：
 
 * **下载**：[WIDER 数据集](http://shuoyang1213.me/WIDERFACE/)，以及 [wider_val.txt](https://drive.google.com/file/d/1Twa2YSAxaRzy-SnOx0ZA3J3p8BUM14uN/view?usp=sharing)
-  * 为了简便实验流程，我们只需要在验证集上测试两种模型性能
+  * 为了简便实验流程，我们只需要在**测试集**上测试两种模型性能
     * 将数据集 WIDER 放到 `/cv-work/data`
     * 将 wider_val.txt 放到 `/cv-work/data/WIDER/WIDER_val`
 * **环境**：
@@ -60,9 +60,6 @@ python 1.py -i [/path/to/input_image] -o [/path/to/output_image]
 - data
   - WIDER
     - ...
-    - WIDER_val
-      - images
-      - wider_val.txt
 - yolov5-face
 - weights
   - checkpoint_50.pth
