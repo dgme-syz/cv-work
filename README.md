@@ -80,6 +80,10 @@ make exp1 && make exp2
 ```bash
 make test1 && make test2
 ```
+✨ 部署 && 检测图片人脸，将待检测图片放置到 `/cv-work/task2/src` 中，结果在 `/cv-work/task2/detect` 中
+```bash
+make detect1 && make detect2
+```
 
 (5). 参考
 1. https://github.com/varunagrawal/tiny-faces-pytorch
