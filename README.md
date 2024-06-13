@@ -90,3 +90,5 @@ make detect1 && make detect2
 2. https://github.com/deepcam-cn/yolov5-face
 
 ## Task3
+
+🚀参考仓库 https://github.com/wyf0912/SinSR
